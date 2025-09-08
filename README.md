@@ -1,16 +1,17 @@
-## Hi there 👋
+## soeun
+### 숙명여대 소프트웨어학부 컴퓨터과학전공
 
-<!--
-**soeun-727/soeun-727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**관심 분야**: 보안, 프론트엔드 개발
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**이력:**
+SISS 부원
+- 숙명여대 정보보안학회
+- 2024.12.30 ~ 현재
+수퍼톤 PM팀 인턴
+- 오디오 인공지능 기업
+- 2024.07.01 ~ 2024.08.31
+숙명통역봉사단 영어대표(부회장)
+- 숙명여대 리더십그룹
+- 2022.12.27 ~ 2024.01.31
+숙명통역봉사단 영어단원
+- 2022.03.22 ~ 2022.12.27
